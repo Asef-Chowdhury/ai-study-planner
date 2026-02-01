@@ -32,6 +32,8 @@ python -m streamlit run app.py --server.address 127.0.0.1 --server.port 8600
 ### Whats next for this project
 - Add a database to store user study plans
 - Add a login + secure authentication/authorization to keep track of study plans
-
+- Add an option to give priority for the subject that has exam coming up
+- Come up with an idea to add notes
+- make it a tutor for 24/7 support
 ---
 
