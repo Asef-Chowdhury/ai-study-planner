@@ -4,7 +4,7 @@ from datetime import date
 
 st.set_page_config(page_title="AI Study Planner", page_icon="📚", layout="centered")
 
-st.title("📚 AI Study Planner (MVP)")
+st.title("📚 AI Study Planner")
 st.caption("Enter your weekly hours + topic stats. Get a high-utility weekly plan.")
 
 # ---------- Load preset topics ----------
@@ -105,3 +105,4 @@ if st.button("Generate Plan ✅"):
     st.text_area("Plan output (copy/paste)", out, height=320)
 
     st.download_button("Download plan as .txt", out, file_name="study_plan.txt")
+
