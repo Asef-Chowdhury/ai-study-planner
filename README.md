@@ -11,6 +11,12 @@
 - Python
 - Streamlit for fast application prototyping
 
+## How to run application
+
+```powershell
+python -m streamlit run app.py --server.address 127.0.0.1 --server.port 8600
+```
+
 
 <img width="1138" height="883" alt="image" src="https://github.com/user-attachments/assets/3791178e-9010-49ff-8d5f-044ac8c5e3b0" />
 
