@@ -20,7 +20,7 @@ python -m streamlit run app.py --server.address 127.0.0.1 --server.port 8600
 ```
 
 
-<img width="1138" height="883" alt="image" src="https://github.com/user-attachments/assets/3791178e-9010-49ff-8d5f-044ac8c5e3b0" />
+<img width="983" height="789" alt="image" src="https://github.com/user-attachments/assets/bf73e211-abf5-4523-8af2-27cf19abc75d" />
 
 
 <img width="914" height="910" alt="image" src="https://github.com/user-attachments/assets/c7398e3a-4f26-4bca-8878-f7e92b69a1b5" />
