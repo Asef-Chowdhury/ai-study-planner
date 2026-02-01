@@ -1,10 +1,12 @@
 # Personal AI study application
 
-- Built by: 
+- Built by:
+    - Asef Chowdhury
+    - Parsa Jafari
 
 ## Problem statement
 
-
+- Students often have limited time to study, but most study planners treat all topics equally. This leads to inefficient use of time, especially when exams focus more heavily on certain topics. There is a need for a smarter system that helps students prioritize what to study based on importance and personal weaknesses, so they can achieve better results within a limited study schedule.
 
 ## Technologies
 
